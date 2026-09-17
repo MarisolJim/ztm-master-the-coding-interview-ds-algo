@@ -10,3 +10,5 @@ function logAllPairsOfArray(array) {
 }
 
 logAllPairsOfArray(boxes)
+
+// nested loops is O(n^2)
